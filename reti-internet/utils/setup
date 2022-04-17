@@ -1,0 +1,11 @@
+#!/bin/bash
+compile() {
+    for input in "$@"
+    do
+        cropped=${input%.c}
+        output=${cropped^}
+        echo "--- --- Compiling '$input' into '$output' --- ---"
+        gcc "$input" -o "$output"
+    done
+}
+export -f compile
