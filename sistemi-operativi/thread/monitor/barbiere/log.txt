@@ -1,0 +1,157 @@
+Cliente 0 ha trovato posto in sala, entra
+Barbiere 2 pronto a servire!
+Barbiere 3 pronto a servire!
+Barbiere 1 pronto a servire!
+Cliente 0 si è seduto sul divano
+Cliente 1 ha trovato posto in sala, entra
+Cliente 1 si è seduto sul divano
+Cliente 2 ha trovato posto in sala, entra
+Cliente 2 si è seduto sul divano
+Barbiere 3 sta servendo Cliente 1
+Barbiere 2 sta servendo Cliente 2
+Barbiere 1 sta servendo Cliente 0
+Barbiere 3 ha servito Cliente 1
+Barbiere 3 sta facendo pagare Cliente 1
+Barbiere 2 ha servito Cliente 2
+Barbiere 1 ha servito Cliente 0
+Barbiere 3 ha fatto pagare Cliente 1
+Cliente 3 ha trovato posto in sala, entra
+Cliente 3 si è seduto sul divano
+Barbiere 3 sta pulendo la sua postazione
+Barbiere 1 sta facendo pagare Cliente 0
+Barbiere 1 ha fatto pagare Cliente 0
+Barbiere 1 sta pulendo la sua postazione
+Barbiere 2 sta facendo pagare Cliente 2
+Barbiere 2 ha fatto pagare Cliente 2
+Barbiere 2 sta pulendo la sua postazione
+Cliente 5 ha trovato posto in sala, entra
+Cliente 5 si è seduto sul divano
+Cliente 4 ha trovato posto in sala, entra
+Cliente 4 si è seduto sul divano
+Barbiere 1 sta servendo Cliente 3
+Barbiere 2 sta servendo Cliente 4
+Barbiere 3 sta servendo Cliente 5
+Barbiere 2 ha servito Cliente 4
+Barbiere 2 sta facendo pagare Cliente 4
+Barbiere 1 ha servito Cliente 3
+Barbiere 3 ha servito Cliente 5
+Barbiere 2 ha fatto pagare Cliente 4
+Barbiere 2 sta pulendo la sua postazione
+Cliente 6 ha trovato posto in sala, entra
+Cliente 6 si è seduto sul divano
+Barbiere 3 sta facendo pagare Cliente 5
+Barbiere 3 ha fatto pagare Cliente 5
+Barbiere 3 sta pulendo la sua postazione
+Barbiere 1 sta facendo pagare Cliente 3
+Barbiere 1 ha fatto pagare Cliente 3
+Barbiere 1 sta pulendo la sua postazione
+Cliente 8 ha trovato posto in sala, entra
+Cliente 8 si è seduto sul divano
+Barbiere 3 sta servendo Cliente 6
+Cliente 7 ha trovato posto in sala, entra
+Cliente 7 si è seduto sul divano
+Barbiere 3 ha servito Cliente 6
+Barbiere 2 sta servendo Cliente 8
+Barbiere 1 sta servendo Cliente 7
+Barbiere 2 ha servito Cliente 8
+Barbiere 3 sta facendo pagare Cliente 6
+Barbiere 1 ha servito Cliente 7
+Barbiere 3 ha fatto pagare Cliente 6
+Barbiere 3 sta pulendo la sua postazione
+Barbiere 1 sta facendo pagare Cliente 7
+Barbiere 1 ha fatto pagare Cliente 7
+Barbiere 1 sta pulendo la sua postazione
+Barbiere 2 sta facendo pagare Cliente 8
+Barbiere 2 ha fatto pagare Cliente 8
+Barbiere 2 sta pulendo la sua postazione
+Cliente 10 ha trovato posto in sala, entra
+Cliente 10 si è seduto sul divano
+Cliente 9 ha trovato posto in sala, entra
+Cliente 9 si è seduto sul divano
+Barbiere 2 sta servendo Cliente 9
+Barbiere 3 sta servendo Cliente 10
+Barbiere 2 ha servito Cliente 9
+Barbiere 3 ha servito Cliente 10
+Barbiere 2 sta facendo pagare Cliente 9
+Barbiere 2 ha fatto pagare Cliente 9
+Barbiere 2 sta pulendo la sua postazione
+Barbiere 3 sta facendo pagare Cliente 10
+Barbiere 3 ha fatto pagare Cliente 10
+Barbiere 3 sta pulendo la sua postazione
+Cliente 11 ha trovato posto in sala, entra
+Cliente 11 si è seduto sul divano
+Barbiere 2 sta servendo Cliente 11
+Barbiere 2 ha servito Cliente 11
+Barbiere 2 sta facendo pagare Cliente 11
+Barbiere 2 ha fatto pagare Cliente 11
+Barbiere 2 sta pulendo la sua postazione
+Cliente 12 ha trovato posto in sala, entra
+Cliente 12 si è seduto sul divano
+Barbiere 1 sta servendo Cliente 12
+Barbiere 1 ha servito Cliente 12
+Barbiere 1 sta facendo pagare Cliente 12
+Barbiere 1 ha fatto pagare Cliente 12
+Barbiere 1 sta pulendo la sua postazione
+Cliente 13 ha trovato posto in sala, entra
+Cliente 13 si è seduto sul divano
+Barbiere 3 sta servendo Cliente 13
+Barbiere 3 ha servito Cliente 13
+Barbiere 3 sta facendo pagare Cliente 13
+Barbiere 3 ha fatto pagare Cliente 13
+Barbiere 3 sta pulendo la sua postazione
+Cliente 14 ha trovato posto in sala, entra
+Cliente 14 si è seduto sul divano
+Barbiere 2 sta servendo Cliente 14
+Barbiere 2 ha servito Cliente 14
+Barbiere 2 sta facendo pagare Cliente 14
+Barbiere 2 ha fatto pagare Cliente 14
+Barbiere 2 sta pulendo la sua postazione
+Cliente 15 ha trovato posto in sala, entra
+Cliente 15 si è seduto sul divano
+Barbiere 3 sta servendo Cliente 15
+Barbiere 3 ha servito Cliente 15
+Barbiere 3 sta facendo pagare Cliente 15
+Barbiere 3 ha fatto pagare Cliente 15
+Barbiere 3 sta pulendo la sua postazione
+Cliente 16 ha trovato posto in sala, entra
+Cliente 16 si è seduto sul divano
+Barbiere 1 sta servendo Cliente 16
+Barbiere 1 ha servito Cliente 16
+Barbiere 1 sta facendo pagare Cliente 16
+Barbiere 1 ha fatto pagare Cliente 16
+Barbiere 1 sta pulendo la sua postazione
+Cliente 18 ha trovato posto in sala, entra
+Cliente 18 si è seduto sul divano
+Cliente 17 ha trovato posto in sala, entra
+Cliente 17 si è seduto sul divano
+Barbiere 2 sta servendo Cliente 18
+Barbiere 3 sta servendo Cliente 17
+Barbiere 2 ha servito Cliente 18
+Barbiere 2 sta facendo pagare Cliente 18
+Barbiere 3 ha servito Cliente 17
+Barbiere 2 ha fatto pagare Cliente 18
+Barbiere 2 sta pulendo la sua postazione
+Cliente 19 ha trovato posto in sala, entra
+Cliente 19 si è seduto sul divano
+Barbiere 3 sta facendo pagare Cliente 17
+Barbiere 3 ha fatto pagare Cliente 17
+Barbiere 3 sta pulendo la sua postazione
+Cliente 20 ha trovato posto in sala, entra
+Cliente 20 si è seduto sul divano
+Barbiere 1 sta servendo Cliente 20
+Barbiere 2 sta servendo Cliente 19
+Barbiere 1 ha servito Cliente 20
+Barbiere 1 sta facendo pagare Cliente 20
+Barbiere 2 ha servito Cliente 19
+Barbiere 1 ha fatto pagare Cliente 20
+Barbiere 1 sta pulendo la sua postazione
+Cliente 21 ha trovato posto in sala, entra
+Cliente 21 si è seduto sul divano
+Barbiere 2 sta facendo pagare Cliente 19
+Barbiere 2 ha fatto pagare Cliente 19
+Barbiere 2 sta pulendo la sua postazione
+Barbiere 3 sta servendo Cliente 21
+Barbiere 3 ha servito Cliente 21
+Barbiere 3 sta facendo pagare Cliente 21
+Barbiere 3 ha fatto pagare Cliente 21
+Barbiere 3 sta pulendo la sua postazione
