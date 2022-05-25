@@ -15,7 +15,7 @@ public class Barbiere extends Thread {
             Cliente daServire = this.s.accomodaCliente(this);
             this.serviCliente(daServire);
             try {
-                System.out.println(this + " sta pulendo la sua postazione");
+                System.out.println(this + " sta pulendo la sua postazione"); // aspetto dopo aver servito un cliente
                 Thread.sleep((long) Math.random() * 2000);
             } catch (InterruptedException e) {
             }
